@@ -30,7 +30,8 @@ Este é o repositório de estudo criado para o desenvolvimento de aplicativos em
 
 ## Screenshots
 
-![img](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633368.png?raw=true)
-
-![img](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633386.png?raw=true)
+<div style="display: flex; justify-content: left; align-items: center;">
+<img src="https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633368.png?raw=true" alt="alt text" width="240">
+<img src="https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633386.png?raw=true" alt="alt text" width="240">
+</div>
 
