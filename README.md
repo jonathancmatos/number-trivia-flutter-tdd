@@ -1,16 +1,36 @@
-# number_trivia
 
-A new Flutter project.
+# Number Trivia App - TDD Clean Architecture - Flutter
 
-## Getting Started
+Este é o repositorio de estudo criado para o desenvolvimento de aplicativos em flutter usando arquitetura limpa e desenvolvimento orientado a testes.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Referência
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - WebSite: [Reso Coder](https://resocoder.com/)
+ - API Usada: [Number Trivia API](http://numbersapi.com/#42)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Proposta Clean Architecture
+![App Screenshot](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/clean%20arch.jpg?raw=true)
+## Fluxo App
+![App Screenshot](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/aoo-flush.png?raw=true)
+## Etiquetas
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+
+## Funcionalidades
+
+- Buscar fatos numéricos interessantes (Permite buscar de forma aleatória)
+- Armazenamento em Cache 
+- Funciona Online e Off-line
+
+
+## Screenshots
+
+![img](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633368.png?raw=true)
+
+![img](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633386.png?raw=true)
+
