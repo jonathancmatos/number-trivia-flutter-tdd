@@ -1,7 +1,7 @@
 
 # Number Trivia App - TDD Clean Architecture - Flutter
 
-Este é o repositorio de estudo criado para o desenvolvimento de aplicativos em flutter usando arquitetura limpa e desenvolvimento orientado a testes.
+Este é o repositório de estudo criado para o desenvolvimento de aplicativos em flutter usando arquitetura limpa e desenvolvimento orientado a testes.
 
 
 ## Referência
