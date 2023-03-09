@@ -1,40 +1,37 @@
 
-# WhatsApp Direct Link - Flutter
+# Number Trivia App - TDD Clean Architecture - Flutter
 
-Este projeto foi desenvolvido com base nas práticas de Clean Architecture e Domain-Driven Design (DDD), buscando uma arquitetura limpa e uma modelagem de domínio efetiva.
+Este é o repositório de estudo criado para o desenvolvimento de aplicativos em flutter usando arquitetura limpa e desenvolvimento orientado a testes.
 
-O objetivo do projeto é fornecer uma base sólida para a implementação de sistemas complexos e escaláveis, com uma arquitetura limpa e uma modelagem de domínio clara e consistente.
+
+## Referência
+ - WebSite: [Reso Coder](https://resocoder.com/)
+ - API Usada: [Number Trivia API](http://numbersapi.com/#42)
+
+
+## Proposta Clean Architecture
+![App Screenshot](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/clean%20arch.jpg?raw=true)
+
+
+## Fluxo App
+![App Screenshot](https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/aoo-flush.png?raw=true)
 
 
 ## Etiquetas
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
 ## Funcionalidades
-
-- Gerar Link do WhatsApp
-- Copiar ou Abrir conversa direto pelo app
-- Histórico de Links gerados
-
-
-## Packages Utilizados
-
- - [flutter_modular](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [fpdart](https://github.com/matiassingers/awesome-readme)
- - [shared_preferences](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [url_launcher](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [clipboard](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- Buscar fatos numéricos interessantes (Permite buscar de forma aleatória)
+- Armazenamento em Cache 
+- Funciona Online e Off-line
 
 
 ## Screenshots
-
 <div style="display: flex; justify-content: left; align-items: center;">
-<img src="https://github.com/jonathancmatos/whatsapp-direct-link/blob/main/imgs/Screenshot_1677616716.png?raw=true" alt="alt text" width="240">
+<img src="https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633368.png?raw=true" alt="alt text" width="240">
 
-<img src="https://github.com/jonathancmatos/whatsapp-direct-link/blob/main/imgs/Screenshot_1677616762.png?raw=true" alt="alt text" width="240">
-
-<img src="https://github.com/jonathancmatos/whatsapp-direct-link/blob/main/imgs/Screenshot_1677616767.png?raw=true" alt="alt text" width="240">
+<img src="https://github.com/jonathancmatos/number-trivia-flutter-tdd/blob/main/imgs/Screenshot_1671633386.png?raw=true" alt="alt text" width="240">
 </div>
 
